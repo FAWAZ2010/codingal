@@ -14,8 +14,8 @@ li:nth-child(3){
     background-color: lime;
 }
 li::before{
-    content:"🫢";
+    content:"😁";
 }
 li::after{
-    content:"💀";
+    content:"";
 }
